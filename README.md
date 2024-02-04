@@ -23,7 +23,7 @@ pip install pandas numpy matplotlib
 To check if the dataset is balanced or not, a bar graph is plotted using matplotlib.
 
 
-(![Alt text](Unbalanced.png))<br/>
+![Unbalanced Dataset](Unbalanced.png)<br/>
 
 As the bar graph of the given dataset is not balanced so we applied diffrent techniques for the same.
 
@@ -81,4 +81,4 @@ Best Model: Logistic Regression
 Accuracy: 0.823144
 
 
-## Logistic Regression consistently achieved the highest accuracy across different sampling techniques.
+## Logistic Regression consistently achieved the highest accuracy across different sampling techniques with Bootstrap Sampling having the highest accuracy.
